@@ -1,0 +1,15 @@
+{
+    "name": "html/supermarket",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Sempionato",
+            "email": "paulo@sempionato.com"
+        }
+    ],
+    "require": {}
+}
